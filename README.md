@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![](https://img.shields.io/badge/Email-b.james.neustadt%40gmail.com-lightgrey)](mailto:b.james.neustadt@gmail.com) [![PDF resume](https://img.shields.io/badge/CV-PDF%20resume-lightgrey)](https://benjaminneustadt.github.io/resume/)
+[![](https://img.shields.io/badge/Email-b.james.neustadt%40gmail.com-lightgrey)](mailto:b.james.neustadt@gmail.com) [![PDF resume](https://img.shields.io/badge/CV-PDF%20resume-lightgrey)](https://benjaminneustadt.github.io/resume/)  [![](https://img.shields.io/badge/-Website-blue)](https://benjamin-neustadt.herokuapp.com/)
 </div>
 
  <div align="center">
@@ -24,32 +24,17 @@
 ----
 
 
+<a name="languages"></a>
+### Languages
+<div align="center">
+ <p><b>English</b> (native); <b>French</b> (native); <b>German</b> (conversational); <b>Thai</b> (conversational); <b>Mandarin</b> (beginner)<p>
+ </div>
 
-<a name="proj"></a>
-## Projects
+---
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| [**OpenBook**](https://github.com/BenjaminNeustadt/OPEN-BOOK_new)| **Makers**  _Group Project_ (week 12) - Full stack. App for searching independent book stores with map interactivity. | Node.js, Jest, MongoDB, Mongoose, Cypress, HTML, Jade, CSS |
-| [**Acebook**](https://github.com/sophiegilder/acebook-node) | **Makers**  _Group Project_ (week 8-9) - Full stack clone of FaceBook. | Node.js, React, MongoDB, Mongoose, Express, hbs, JSX, Cypress, Jest|
-| [**MakersBNB**](https://github.com/BenjaminNeustadt/MakersBNB) | **Makers**  _Group Project_ (week 5) - Full stack clone of Airbnb. | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS|
-| [**Bank Tech Test**](https://github.com/BenjaminNeustadt/Code-Quality-Ruby) | **Makers**  _Solo Project_ (week 10) - Focus on Code Quality, and single responsibility priniciple and TDD. | Ruby, RSpec|
-| [**Chitter**](https://github.com/BenjaminNeustadt/chitter-challenge) | **Makers**  _Solo Project_ (week 4) - Full stack clone of Twitter. | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS|
-| [**Task Track**](https://github.com/BenjaminNeustadt/React-desktop-app-) | _Solo Project_ - Simple desktop app, using web technologies. | React, NW.js, HTML, CSS|
+### Tools
 
-
-----
-
-### Languages and Tools :
-
-<div style="
-  border-radius: 40px;
-  position: relative;
-  right: -10px;
-  background-color: white;
-  padding: 20px;
-  width: 800px;
-  height: 40px;">
+<div align="center">
     <img src="assets/ruby.svg" title="ruby" alt="Ruby" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
     <img src="assets/js.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
     <img src="assets/node.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;&nbsp;
@@ -69,17 +54,35 @@
 
 ----
 
+
+
+<a name="proj"></a>
+## Projects
+
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| [**OpenBook**](https://github.com/BenjaminNeustadt/OPEN-BOOK_new)| **Makers**  _Group Project_ (week 12) - Full stack. App for searching independent book stores with map interactivity. | Node.js, Jest, MongoDB, Mongoose, Cypress, HTML, Jade, CSS |
+| [**Acebook**](https://github.com/sophiegilder/acebook-node) | **Makers**  _Group Project_ (week 8-9) - Full stack clone of FaceBook. | Node.js, React, MongoDB, Mongoose, Express, hbs, JSX, Cypress, Jest|
+| [**MakersBNB**](https://github.com/BenjaminNeustadt/MakersBNB) | **Makers**  _Group Project_ (week 5) - Full stack clone of Airbnb. | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS|
+| [**Bank Tech Test**](https://github.com/BenjaminNeustadt/Code-Quality-Ruby) | **Makers**  _Solo Project_ (week 10) - Focus on Code Quality, and single responsibility priniciple and TDD. | Ruby, RSpec|
+| [**Chitter**](https://github.com/BenjaminNeustadt/chitter-challenge) | **Makers**  _Solo Project_ (week 4) - Full stack clone of Twitter. | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS|
+| [**Task Track**](https://github.com/BenjaminNeustadt/React-desktop-app-) | _Solo Project_ - Simple desktop app, using web technologies. | React, NW.js, HTML, CSS|
+| [**OldPhone**](https://github.com/BenjaminNeustadt/OldPhone) | _Solo Project_ - Coding Challenge completed following best practices learnt at Makers, also completed in [C#](https://github.com/BenjaminNeustadt/OldPhone_csharp). | Ruby, Rspec|
+
+
+----
+
 <a name="edu"></a>
 ## Education :school:
 
 #### Makers Academy (April 2022 to August 2022)
-```
+
+
 - I pair-programmed extensively, maintaining composure and calm to maximise problem-solving as a duo.
-- OOP: Learnt the foundations of Object Oriented Programming.
-- TDD: All coding was done following test driven development (or BDD). 
-- Code Reviews: Completed numerous code reviews and group projects, assessing pull requests, and learning from observations made on my own code submissions.
-- Team work: Most importantly I cemented the value of working effectively as part of a tech team, following agile methods (Github Projects, Trello, Slack).
-```
+- OOP: I learnt the foundations of object oriented programming in two dynamically typed scripting languages:[Ruby](https://www.ruby-lang.org/en/about/) and [JavaScript](https://www.javascript.com/learn).
+- TDD: All coding was done following test driven development (or BDD), with testing frameworks such as [RSpec](https://relishapp.com/rspec) to ensure a robust codebase.
+- Code Reviews: I completed numerous code reviews and group projects, assessing pull requests, and learning from observations made on my own code submissions.
+- Team work: Most importantly I cemented the value of working effectively as part of a tech team, using Kanban software such as Github Projects, Trello, along with Agile methodologies in synchronous and asynchronous communication set-ups (principally through Slack).
 
 ---
 #### Kings College London (October 2016 to May 2019)
@@ -87,7 +90,6 @@
 **MA Philosophy**
 _Grade: high 2:1_
 
-```
 Modules included:
 - Film & Philosophy
 - Metaphysics
@@ -95,7 +97,6 @@ Modules included:
 - First Order Logic (for which I scored the highest of my class)
 - Thesis topic: 'Computers as Objects to Think Through'
 - Societies: KCL Chess Society
-```
 
 ---
 #### Univeristy of London, Goldsmiths College (Oct 2011 to May 2014)
@@ -103,14 +104,12 @@ Modules included:
  **BA English & American Literature**
  _Grade: high 2:1_
 
-```
 Modules included:
 - Prosody
 - Linguistics
 - Semantics
 - American Literature
-- Dissertation topic:'Rhetoric and Syntaxical Linguistics in Edgar Allan Poe'
-```
+- Dissertation topic: 'Rhetoric and Syntaxical Linguistics in Edgar Allan Poe'
 
 ----
 <a name="work"></a>
@@ -182,34 +181,29 @@ _Assistant Photographer_
 
 * ##### Team Player - Healthy communication and rapport building
 
-```
-Extensive experience in working with teams made up of people from different cultures and backgrounds throughout my various professoinal roles. 
-Always on the lookout for conferences/talks that I can learn from to reinforce this even more, the latest I attended linked just below.
-```
-[here](https://yougotthis.io/collections/happy-healthy-communication)
+
+I have extensive experience in working with teams made up of people from different cultures and backgrounds throughout my various professoinal roles, and in my personal life. I am a strong and considerate communicator, which has served as an asset on numerous occasions when working in large international teams; one example might be when I was involved in negotiating a partnership between a private school and the regional academic authority, Chiang Mai University, in northern Thailand, where I served as lead Academic consultant. The partnership was centered around the 28th point of the United Nations’ SDG initiatives. Given that my employer was Chinese, and our negotiating partners were a mixture of Western and Thai, there were cultural differences that extended to communication styles. My ability to manoeuvre varying modes of communication comfortably served as an asset in navigating what might have otherwise been unproductive meetings. Potential misunderstandings were diffused and the grounds for a robust partnership were agreed upon. I am always on the lookout for conferences/talks that I can learn from to reinforce this even more, the latest I attended was presented by Twilio,[here](https://yougotthis.io/collections/happy-healthy-communication).
+
 * ##### Proactive learner
 
-```
-I engage in all activities I pursue whole-heartedly, and make it a point to learn around the topic at hand in order to get a more thorough and well rounded understanding. 
-I learnt to use vim, and make the effort to pair exclusively through tmux ssh sessions whenever possible.
-Currently looking at learning C.
-```
+I engage in all activities I pursue whole-heartedly, and make it a point to learn around the topic at hand in order to get a more thorough and well rounded understanding. I like to learn in depth, and think of what I know in new ways, which is one of the reasons I love Ruby so much. There are so many ways to re-think about a given problem. I actively document my learning process in a book included on my website, [here](https://benjamin-neustadt.herokuapp.com/documentations).
+
+I have learnt to use Vim, and have gotten into the habit of pairing exclusively through tmux ssh sessions whenever possible, as I have an obsession with doing everything through the command-line!
+Since finishing Makers, I have continued to build apps specifically on the Sinatra and Rails frameworks - which can be viewed in my [repositories](https://github.com/BenjaminNeustadt?tab=repositories). The most recent example is my website, built using Sinatra, and deployed on Heroku. 
+
+In terms of Kanban, I have continued to explore avenvues for streamlining my work process in order to be more effective in my work; I have recently taken to using [Taskwarrior](https://taskwarrior.org/), an in commmand-line solution to Kanban, as well as [Timewarrior](https://timewarrior.net/).
+
 
 
 * ##### Work ethic and discipline
-```
-Thrive on being placed outside my comfort zone in all aspects of life. 
+
+I really thrive on being placed outside my comfort zone in all aspects of life. I enjoy challenges. 
 Able to persevere through difficult experiences and learning curbs quickly, whilst maintaining focus. 
-```
+My persistent [contributions](https://github.com/BenjaminNeustadt) on my Github show my consistency in applying myself to pushing my skills further and further. More so than that, I think my detailed and meticulous process of organising my processes and understanding in [my book](https://benjamin-neustadt.herokuapp.com/documentations) show this also.
+
 
 ---
 
-<a name="languages"></a>
-## Languages
-
-- **English** (native); **French** (native); **German** (conversational); **Thai** (conversational); **Mandarin** (beginner)
-
----
 #### Other qualifications and training
 
 - OIB (International Baccalaureate) - was one of 3 students (national level) to score 100 percent for English Literature.
